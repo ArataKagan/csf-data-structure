@@ -1,0 +1,15 @@
+1.
+
+b) myArr.push('Mary') //  ["Vivian", "Ava", "Josh", "Patrick", "Mike", "Mary"]
+
+c) myArr.indexOf('Josh') // 2
+
+d) myArr.indexOf('Emily') // -1 
+
+e) myArr.splice(1, 0, 'Melissa') // ["Vivian", "Melissa", "Ava", "Josh", "Patrick", "Mike", "Mary"]
+
+f) myArr.splice(4, 1) // ["Vivian", "Melissa", "Ava", "Josh", "Mike", "Mary"]
+
+2. A stuck of shoe box 
+
+3. You can access each shoe box by the index assigned to each shoe box and manipulate the order. 
